@@ -1,0 +1,1081 @@
+strategy,slot,poi_id,poi_name,district,lat,lon,nominal_capacity,capacity,occupancy,load_ratio
+popularity,0,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,295,0.5959595959595959
+popularity,0,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,118,0.4290909090909091
+popularity,0,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,94,0.31074380165289256
+popularity,0,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,6,0.015584415584415583
+popularity,0,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,0,0.0
+popularity,0,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,0,0.0
+popularity,0,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,269,0.7524475524475523
+popularity,0,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,34,0.12363636363636364
+popularity,0,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,665,1.4224598930481283
+popularity,0,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,109,0.3603305785123967
+popularity,0,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,0,0.0
+popularity,0,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,676,0.8779220779220778
+popularity,0,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,0,0.0
+popularity,0,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,6,0.015584415584415583
+popularity,0,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,0,0.0
+popularity,0,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,0,0.0
+popularity,0,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+popularity,0,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,0,0.0
+popularity,0,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,0,0.0
+popularity,0,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,0,0.0
+popularity,0,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,0,0.0
+popularity,0,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,0,0.0
+popularity,0,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,0,0.0
+popularity,0,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,0,0.0
+popularity,0,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,0,0.0
+popularity,0,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,0,0.0
+popularity,0,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,22,0.049999999999999996
+popularity,0,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,0,0.0
+popularity,0,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,0,0.0
+popularity,0,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,0,0.0
+popularity,0,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,516,0.8528925619834711
+popularity,0,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,0,0.0
+popularity,0,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,0,0.0
+popularity,0,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,0,0.0
+popularity,0,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,0,0.0
+popularity,0,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,0,0.0
+popularity,0,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,0,0.0
+popularity,0,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,0,0.0
+popularity,0,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,32,0.12929292929292927
+popularity,0,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,0,0.0
+popularity,0,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,0,0.0
+popularity,0,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,0,0.0
+popularity,0,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,0,0.0
+popularity,0,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,0,0.0
+popularity,0,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,0,0.0
+popularity,0,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,0,0.0
+popularity,0,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,0,0.0
+popularity,0,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,0,0.0
+popularity,0,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,0,0.0
+popularity,0,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,0,0.0
+popularity,0,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,0,0.0
+popularity,0,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,0,0.0
+popularity,0,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,0,0.0
+popularity,0,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,0,0.0
+popularity,0,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,516,0.6254545454545454
+popularity,0,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,0,0.0
+popularity,0,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,0,0.0
+popularity,0,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,0,0.0
+popularity,0,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,0,0.0
+popularity,0,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,0,0.0
+popularity,1,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,204,0.41212121212121205
+popularity,1,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,56,0.20363636363636364
+popularity,1,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,71,0.23471074380165288
+popularity,1,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,59,0.15324675324675321
+popularity,1,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,0,0.0
+popularity,1,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,0,0.0
+popularity,1,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,267,0.7468531468531467
+popularity,1,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,138,0.5018181818181818
+popularity,1,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,627,1.3411764705882352
+popularity,1,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,132,0.43636363636363634
+popularity,1,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,0,0.0
+popularity,1,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,636,0.8259740259740258
+popularity,1,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,0,0.0
+popularity,1,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,18,0.04675324675324675
+popularity,1,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,0,0.0
+popularity,1,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,0,0.0
+popularity,1,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+popularity,1,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,0,0.0
+popularity,1,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,0,0.0
+popularity,1,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,0,0.0
+popularity,1,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,0,0.0
+popularity,1,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,0,0.0
+popularity,1,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,0,0.0
+popularity,1,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,0,0.0
+popularity,1,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,0,0.0
+popularity,1,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,0,0.0
+popularity,1,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,26,0.05909090909090908
+popularity,1,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,0,0.0
+popularity,1,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,0,0.0
+popularity,1,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,0,0.0
+popularity,1,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,416,0.687603305785124
+popularity,1,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,0,0.0
+popularity,1,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,1,0.0027972027972027968
+popularity,1,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,0,0.0
+popularity,1,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,0,0.0
+popularity,1,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,0,0.0
+popularity,1,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,0,0.0
+popularity,1,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,3,0.007792207792207791
+popularity,1,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,66,0.26666666666666666
+popularity,1,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,0,0.0
+popularity,1,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,0,0.0
+popularity,1,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,0,0.0
+popularity,1,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,0,0.0
+popularity,1,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,0,0.0
+popularity,1,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,0,0.0
+popularity,1,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,0,0.0
+popularity,1,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,0,0.0
+popularity,1,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,0,0.0
+popularity,1,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,0,0.0
+popularity,1,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,0,0.0
+popularity,1,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,0,0.0
+popularity,1,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,0,0.0
+popularity,1,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,0,0.0
+popularity,1,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,0,0.0
+popularity,1,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,565,0.6848484848484847
+popularity,1,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,0,0.0
+popularity,1,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,14,0.031818181818181815
+popularity,1,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,0,0.0
+popularity,1,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,0,0.0
+popularity,1,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,0,0.0
+popularity,2,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,122,0.24646464646464644
+popularity,2,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,60,0.21818181818181817
+popularity,2,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,61,0.20165289256198346
+popularity,2,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,144,0.374025974025974
+popularity,2,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,0,0.0
+popularity,2,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,0,0.0
+popularity,2,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,251,0.702097902097902
+popularity,2,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,179,0.6509090909090909
+popularity,2,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,602,1.2877005347593582
+popularity,2,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,202,0.6677685950413224
+popularity,2,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,0,0.0
+popularity,2,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,602,0.7818181818181817
+popularity,2,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,1,0.0027972027972027968
+popularity,2,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,26,0.06753246753246753
+popularity,2,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,1,0.0022727272727272726
+popularity,2,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,0,0.0
+popularity,2,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+popularity,2,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,0,0.0
+popularity,2,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,0,0.0
+popularity,2,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,0,0.0
+popularity,2,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,0,0.0
+popularity,2,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,0,0.0
+popularity,2,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,0,0.0
+popularity,2,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,0,0.0
+popularity,2,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,0,0.0
+popularity,2,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,0,0.0
+popularity,2,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,52,0.11818181818181817
+popularity,2,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,0,0.0
+popularity,2,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,0,0.0
+popularity,2,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,0,0.0
+popularity,2,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,280,0.4628099173553719
+popularity,2,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,0,0.0
+popularity,2,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,18,0.05034965034965034
+popularity,2,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,0,0.0
+popularity,2,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,0,0.0
+popularity,2,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,0,0.0
+popularity,2,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,1,0.0030303030303030303
+popularity,2,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,6,0.015584415584415583
+popularity,2,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,86,0.34747474747474744
+popularity,2,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,0,0.0
+popularity,2,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,0,0.0
+popularity,2,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,0,0.0
+popularity,2,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,0,0.0
+popularity,2,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,0,0.0
+popularity,2,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,0,0.0
+popularity,2,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,0,0.0
+popularity,2,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,0,0.0
+popularity,2,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,0,0.0
+popularity,2,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,0,0.0
+popularity,2,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,0,0.0
+popularity,2,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,0,0.0
+popularity,2,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,0,0.0
+popularity,2,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,0,0.0
+popularity,2,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,0,0.0
+popularity,2,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,571,0.692121212121212
+popularity,2,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,0,0.0
+popularity,2,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,56,0.12727272727272726
+popularity,2,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,0,0.0
+popularity,2,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,0,0.0
+popularity,2,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,0,0.0
+popularity,3,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,67,0.13535353535353534
+popularity,3,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,31,0.11272727272727273
+popularity,3,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,25,0.08264462809917356
+popularity,3,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,201,0.522077922077922
+popularity,3,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,7,0.01958041958041958
+popularity,3,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,0,0.0
+popularity,3,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,204,0.5706293706293706
+popularity,3,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,144,0.5236363636363637
+popularity,3,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,558,1.1935828877005346
+popularity,3,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,246,0.8132231404958677
+popularity,3,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,1,0.0030303030303030303
+popularity,3,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,613,0.796103896103896
+popularity,3,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,10,0.02797202797202797
+popularity,3,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,26,0.06753246753246753
+popularity,3,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,0,0.0
+popularity,3,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,0,0.0
+popularity,3,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+popularity,3,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,0,0.0
+popularity,3,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,0,0.0
+popularity,3,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,0,0.0
+popularity,3,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,0,0.0
+popularity,3,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,0,0.0
+popularity,3,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,0,0.0
+popularity,3,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,0,0.0
+popularity,3,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,0,0.0
+popularity,3,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,0,0.0
+popularity,3,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,83,0.1886363636363636
+popularity,3,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,0,0.0
+popularity,3,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,0,0.0
+popularity,3,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,0,0.0
+popularity,3,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,234,0.3867768595041322
+popularity,3,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,0,0.0
+popularity,3,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,37,0.10349650349650348
+popularity,3,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,0,0.0
+popularity,3,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,0,0.0
+popularity,3,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,0,0.0
+popularity,3,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,4,0.012121212121212121
+popularity,3,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,14,0.036363636363636355
+popularity,3,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,128,0.5171717171717171
+popularity,3,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,0,0.0
+popularity,3,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,0,0.0
+popularity,3,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,0,0.0
+popularity,3,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,0,0.0
+popularity,3,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,0,0.0
+popularity,3,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,0,0.0
+popularity,3,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,0,0.0
+popularity,3,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,0,0.0
+popularity,3,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,0,0.0
+popularity,3,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,0,0.0
+popularity,3,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,0,0.0
+popularity,3,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,0,0.0
+popularity,3,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,0,0.0
+popularity,3,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,0,0.0
+popularity,3,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,0,0.0
+popularity,3,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,602,0.7296969696969696
+popularity,3,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,0,0.0
+popularity,3,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,107,0.24318181818181814
+popularity,3,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,0,0.0
+popularity,3,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,0,0.0
+popularity,3,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,0,0.0
+popularity,4,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,26,0.05252525252525252
+popularity,4,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,11,0.04
+popularity,4,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,25,0.08264462809917356
+popularity,4,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,247,0.6415584415584414
+popularity,4,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,13,0.036363636363636355
+popularity,4,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,0,0.0
+popularity,4,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,132,0.3692307692307692
+popularity,4,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,117,0.4254545454545455
+popularity,4,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,553,1.1828877005347591
+popularity,4,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,269,0.8892561983471075
+popularity,4,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,4,0.012121212121212121
+popularity,4,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,571,0.7415584415584414
+popularity,4,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,6,0.01678321678321678
+popularity,4,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,26,0.06753246753246753
+popularity,4,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,1,0.0022727272727272726
+popularity,4,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,0,0.0
+popularity,4,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+popularity,4,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,0,0.0
+popularity,4,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,0,0.0
+popularity,4,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,0,0.0
+popularity,4,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,0,0.0
+popularity,4,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,0,0.0
+popularity,4,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,0,0.0
+popularity,4,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,0,0.0
+popularity,4,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,0,0.0
+popularity,4,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,0,0.0
+popularity,4,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,106,0.24090909090909088
+popularity,4,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,0,0.0
+popularity,4,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,0,0.0
+popularity,4,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,0,0.0
+popularity,4,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,169,0.2793388429752066
+popularity,4,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,0,0.0
+popularity,4,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,91,0.2545454545454545
+popularity,4,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,0,0.0
+popularity,4,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,0,0.0
+popularity,4,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,0,0.0
+popularity,4,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,12,0.03636363636363636
+popularity,4,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,33,0.0857142857142857
+popularity,4,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,157,0.6343434343434343
+popularity,4,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,0,0.0
+popularity,4,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,0,0.0
+popularity,4,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,0,0.0
+popularity,4,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,0,0.0
+popularity,4,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,0,0.0
+popularity,4,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,0,0.0
+popularity,4,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,0,0.0
+popularity,4,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,0,0.0
+popularity,4,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,0,0.0
+popularity,4,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,0,0.0
+popularity,4,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,0,0.0
+popularity,4,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,0,0.0
+popularity,4,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,0,0.0
+popularity,4,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,0,0.0
+popularity,4,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,0,0.0
+popularity,4,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,573,0.6945454545454545
+popularity,4,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,3,0.00909090909090909
+popularity,4,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,188,0.4272727272727272
+popularity,4,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,0,0.0
+popularity,4,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,0,0.0
+popularity,4,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,0,0.0
+popularity,5,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,21,0.04242424242424242
+popularity,5,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,7,0.025454545454545455
+popularity,5,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,6,0.019834710743801654
+popularity,5,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,301,0.7818181818181817
+popularity,5,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,33,0.0923076923076923
+popularity,5,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,0,0.0
+popularity,5,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,81,0.22657342657342655
+popularity,5,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,77,0.28
+popularity,5,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,549,1.1743315508021388
+popularity,5,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,255,0.8429752066115702
+popularity,5,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,4,0.012121212121212121
+popularity,5,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,522,0.6779220779220778
+popularity,5,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,18,0.05034965034965034
+popularity,5,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,40,0.10389610389610388
+popularity,5,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,0,0.0
+popularity,5,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,0,0.0
+popularity,5,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+popularity,5,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,0,0.0
+popularity,5,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,0,0.0
+popularity,5,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,0,0.0
+popularity,5,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,0,0.0
+popularity,5,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,0,0.0
+popularity,5,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,0,0.0
+popularity,5,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,0,0.0
+popularity,5,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,0,0.0
+popularity,5,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,1,0.0036363636363636364
+popularity,5,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,124,0.2818181818181818
+popularity,5,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,0,0.0
+popularity,5,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,0,0.0
+popularity,5,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,0,0.0
+popularity,5,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,106,0.17520661157024794
+popularity,5,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,0,0.0
+popularity,5,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,143,0.3999999999999999
+popularity,5,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,0,0.0
+popularity,5,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,0,0.0
+popularity,5,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,0,0.0
+popularity,5,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,16,0.048484848484848485
+popularity,5,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,69,0.1792207792207792
+popularity,5,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,162,0.6545454545454544
+popularity,5,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,0,0.0
+popularity,5,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,0,0.0
+popularity,5,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,0,0.0
+popularity,5,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,0,0.0
+popularity,5,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,0,0.0
+popularity,5,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,0,0.0
+popularity,5,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,0,0.0
+popularity,5,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,0,0.0
+popularity,5,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,0,0.0
+popularity,5,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,0,0.0
+popularity,5,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,0,0.0
+popularity,5,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,0,0.0
+popularity,5,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,0,0.0
+popularity,5,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,0,0.0
+popularity,5,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,0,0.0
+popularity,5,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,557,0.6751515151515151
+popularity,5,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,2,0.006060606060606061
+popularity,5,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,253,0.575
+popularity,5,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,0,0.0
+popularity,5,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,0,0.0
+popularity,5,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,0,0.0
+personalized,0,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,7,0.01414141414141414
+personalized,0,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,9,0.03272727272727273
+personalized,0,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,24,0.07933884297520662
+personalized,0,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,85,0.22077922077922074
+personalized,0,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,72,0.20139860139860136
+personalized,0,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,59,0.23838383838383836
+personalized,0,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,50,0.13986013986013984
+personalized,0,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,4,0.014545454545454545
+personalized,0,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,63,0.13475935828877003
+personalized,0,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,82,0.27107438016528923
+personalized,0,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,61,0.18484848484848485
+personalized,0,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,203,0.2636363636363636
+personalized,0,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,13,0.036363636363636355
+personalized,0,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,37,0.0961038961038961
+personalized,0,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,0,0.0
+personalized,0,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,0,0.0
+personalized,0,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+personalized,0,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,61,0.22181818181818183
+personalized,0,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,39,0.07090909090909091
+personalized,0,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,85,0.3863636363636363
+personalized,0,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,68,0.16484848484848483
+personalized,0,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,81,0.4909090909090909
+personalized,0,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,64,0.23272727272727273
+personalized,0,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,63,0.38181818181818183
+personalized,0,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,13,0.02626262626262626
+personalized,0,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,40,0.14545454545454545
+personalized,0,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,81,0.18409090909090906
+personalized,0,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,134,0.20303030303030303
+personalized,0,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,48,0.1939393939393939
+personalized,0,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,35,0.12727272727272726
+personalized,0,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+personalized,0,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,67,0.348051948051948
+personalized,0,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,81,0.22657342657342655
+personalized,0,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,51,0.20606060606060603
+personalized,0,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,0,0.0
+personalized,0,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,57,0.4710743801652892
+personalized,0,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,66,0.2
+personalized,0,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,0,0.0
+personalized,0,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,59,0.23838383838383836
+personalized,0,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,0,0.0
+personalized,0,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,52,0.21010101010101007
+personalized,0,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,29,0.17575757575757575
+personalized,0,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,88,0.14545454545454545
+personalized,0,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,52,0.3151515151515151
+personalized,0,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,61,0.3168831168831168
+personalized,0,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,48,0.21818181818181814
+personalized,0,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,79,0.47878787878787876
+personalized,0,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,1,0.0040404040404040395
+personalized,0,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,82,0.27107438016528923
+personalized,0,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,57,0.20727272727272728
+personalized,0,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,91,0.47272727272727266
+personalized,0,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,91,0.1946524064171123
+personalized,0,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,101,0.7345454545454545
+personalized,0,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,53,0.3212121212121212
+personalized,0,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,117,0.1418181818181818
+personalized,0,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,86,0.2606060606060606
+personalized,0,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,84,0.1909090909090909
+personalized,0,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,99,0.39999999999999997
+personalized,0,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,113,0.1712121212121212
+personalized,0,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,12,0.04363636363636364
+personalized,1,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,6,0.01212121212121212
+personalized,1,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,2,0.007272727272727273
+personalized,1,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,9,0.02975206611570248
+personalized,1,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,91,0.23636363636363633
+personalized,1,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,83,0.23216783216783213
+personalized,1,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,41,0.16565656565656564
+personalized,1,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,38,0.10629370629370628
+personalized,1,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,17,0.06181818181818182
+personalized,1,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,82,0.17540106951871656
+personalized,1,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,81,0.26776859504132233
+personalized,1,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,44,0.13333333333333333
+personalized,1,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,160,0.20779220779220775
+personalized,1,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,17,0.047552447552447544
+personalized,1,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,32,0.0831168831168831
+personalized,1,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,0,0.0
+personalized,1,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,5,0.01818181818181818
+personalized,1,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+personalized,1,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,64,0.23272727272727273
+personalized,1,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,30,0.05454545454545454
+personalized,1,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,69,0.3136363636363636
+personalized,1,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,68,0.16484848484848483
+personalized,1,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,69,0.41818181818181815
+personalized,1,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,68,0.24727272727272728
+personalized,1,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,61,0.3696969696969697
+personalized,1,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,11,0.02222222222222222
+personalized,1,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,48,0.17454545454545456
+personalized,1,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,81,0.18409090909090906
+personalized,1,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,81,0.12272727272727273
+personalized,1,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,57,0.2303030303030303
+personalized,1,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,55,0.2
+personalized,1,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+personalized,1,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,37,0.1922077922077922
+personalized,1,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,98,0.2741258741258741
+personalized,1,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,78,0.3151515151515151
+personalized,1,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,4,0.00909090909090909
+personalized,1,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,51,0.42148760330578505
+personalized,1,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,51,0.15454545454545454
+personalized,1,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,3,0.007792207792207791
+personalized,1,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,64,0.25858585858585853
+personalized,1,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,3,0.00606060606060606
+personalized,1,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,55,0.2222222222222222
+personalized,1,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,48,0.2909090909090909
+personalized,1,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,91,0.15041322314049588
+personalized,1,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,50,0.30303030303030304
+personalized,1,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,80,0.4155844155844155
+personalized,1,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,53,0.24090909090909088
+personalized,1,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,81,0.4909090909090909
+personalized,1,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,4,0.016161616161616158
+personalized,1,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,99,0.32727272727272727
+personalized,1,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,59,0.21454545454545454
+personalized,1,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,89,0.46233766233766227
+personalized,1,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,92,0.19679144385026737
+personalized,1,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,90,0.6545454545454545
+personalized,1,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,60,0.36363636363636365
+personalized,1,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,129,0.15636363636363634
+personalized,1,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,62,0.18787878787878787
+personalized,1,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,85,0.19318181818181815
+personalized,1,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,92,0.37171717171717167
+personalized,1,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,107,0.1621212121212121
+personalized,1,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,14,0.05090909090909091
+personalized,2,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,13,0.02626262626262626
+personalized,2,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,5,0.01818181818181818
+personalized,2,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,10,0.03305785123966942
+personalized,2,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,94,0.24415584415584413
+personalized,2,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,110,0.30769230769230765
+personalized,2,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,54,0.21818181818181814
+personalized,2,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,33,0.0923076923076923
+personalized,2,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,24,0.08727272727272728
+personalized,2,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,108,0.23101604278074864
+personalized,2,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,75,0.24793388429752067
+personalized,2,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,35,0.10606060606060606
+personalized,2,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,121,0.1571428571428571
+personalized,2,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,30,0.0839160839160839
+personalized,2,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,27,0.07012987012987013
+personalized,2,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,2,0.004545454545454545
+personalized,2,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,5,0.01818181818181818
+personalized,2,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+personalized,2,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,78,0.28363636363636363
+personalized,2,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,25,0.045454545454545456
+personalized,2,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,62,0.2818181818181818
+personalized,2,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,76,0.1842424242424242
+personalized,2,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,44,0.26666666666666666
+personalized,2,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,78,0.28363636363636363
+personalized,2,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,69,0.41818181818181815
+personalized,2,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,11,0.02222222222222222
+personalized,2,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,42,0.15272727272727274
+personalized,2,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,53,0.12045454545454544
+personalized,2,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,57,0.08636363636363636
+personalized,2,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,79,0.31919191919191914
+personalized,2,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,67,0.24363636363636362
+personalized,2,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+personalized,2,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,21,0.10909090909090907
+personalized,2,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,101,0.2825174825174825
+personalized,2,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,94,0.37979797979797975
+personalized,2,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,18,0.0409090909090909
+personalized,2,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,48,0.396694214876033
+personalized,2,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,31,0.09393939393939393
+personalized,2,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,3,0.007792207792207791
+personalized,2,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,43,0.17373737373737372
+personalized,2,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,12,0.02424242424242424
+personalized,2,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,65,0.2626262626262626
+personalized,2,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,74,0.4484848484848485
+personalized,2,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,90,0.1487603305785124
+personalized,2,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,45,0.2727272727272727
+personalized,2,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,86,0.4467532467532467
+personalized,2,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,48,0.21818181818181814
+personalized,2,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,68,0.4121212121212121
+personalized,2,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,12,0.04848484848484848
+personalized,2,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,89,0.29421487603305785
+personalized,2,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,61,0.22181818181818183
+personalized,2,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,97,0.5038961038961038
+personalized,2,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,107,0.22887700534759356
+personalized,2,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,82,0.5963636363636363
+personalized,2,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,66,0.4
+personalized,2,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,120,0.14545454545454545
+personalized,2,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,57,0.17272727272727273
+personalized,2,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,90,0.20454545454545453
+personalized,2,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,87,0.35151515151515145
+personalized,2,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,91,0.13787878787878788
+personalized,2,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,28,0.10181818181818182
+personalized,3,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,10,0.0202020202020202
+personalized,3,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,0,0.0
+personalized,3,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,2,0.006611570247933884
+personalized,3,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,107,0.2779220779220779
+personalized,3,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,104,0.29090909090909084
+personalized,3,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,49,0.19797979797979795
+personalized,3,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,43,0.12027972027972027
+personalized,3,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,15,0.05454545454545454
+personalized,3,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,121,0.2588235294117647
+personalized,3,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,59,0.19504132231404958
+personalized,3,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,22,0.06666666666666667
+personalized,3,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,104,0.13506493506493505
+personalized,3,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,27,0.07552447552447551
+personalized,3,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,24,0.06233766233766233
+personalized,3,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,2,0.004545454545454545
+personalized,3,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,4,0.014545454545454545
+personalized,3,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+personalized,3,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,75,0.2727272727272727
+personalized,3,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,12,0.02181818181818182
+personalized,3,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,58,0.2636363636363636
+personalized,3,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,94,0.22787878787878785
+personalized,3,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,59,0.3575757575757576
+personalized,3,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,86,0.31272727272727274
+personalized,3,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,80,0.48484848484848486
+personalized,3,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,9,0.01818181818181818
+personalized,3,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,32,0.11636363636363636
+personalized,3,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,45,0.10227272727272727
+personalized,3,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,54,0.08181818181818182
+personalized,3,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,81,0.3272727272727272
+personalized,3,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,87,0.31636363636363635
+personalized,3,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+personalized,3,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,21,0.10909090909090907
+personalized,3,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,120,0.3356643356643356
+personalized,3,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,118,0.47676767676767673
+personalized,3,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,24,0.054545454545454536
+personalized,3,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,38,0.31404958677685946
+personalized,3,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,11,0.03333333333333333
+personalized,3,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,7,0.018181818181818177
+personalized,3,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,44,0.17777777777777776
+personalized,3,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,21,0.04242424242424242
+personalized,3,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,58,0.23434343434343433
+personalized,3,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,61,0.3696969696969697
+personalized,3,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,82,0.13553719008264462
+personalized,3,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,39,0.23636363636363636
+personalized,3,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,78,0.4051948051948051
+personalized,3,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,56,0.2545454545454545
+personalized,3,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,87,0.5272727272727272
+personalized,3,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,14,0.05656565656565656
+personalized,3,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,107,0.3537190082644628
+personalized,3,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,66,0.24
+personalized,3,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,85,0.4415584415584415
+personalized,3,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,100,0.213903743315508
+personalized,3,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,80,0.5818181818181818
+personalized,3,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,66,0.4
+personalized,3,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,143,0.1733333333333333
+personalized,3,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,51,0.15454545454545454
+personalized,3,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,100,0.22727272727272724
+personalized,3,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,92,0.37171717171717167
+personalized,3,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,72,0.10909090909090909
+personalized,3,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,36,0.13090909090909092
+personalized,4,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,6,0.01212121212121212
+personalized,4,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,2,0.007272727272727273
+personalized,4,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,4,0.013223140495867768
+personalized,4,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,121,0.3142857142857142
+personalized,4,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,141,0.39440559440559436
+personalized,4,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,41,0.16565656565656564
+personalized,4,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,23,0.06433566433566433
+personalized,4,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,14,0.05090909090909091
+personalized,4,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,121,0.2588235294117647
+personalized,4,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,65,0.21487603305785125
+personalized,4,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,15,0.045454545454545456
+personalized,4,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,84,0.10909090909090907
+personalized,4,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,24,0.06713286713286712
+personalized,4,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,8,0.020779220779220776
+personalized,4,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,2,0.004545454545454545
+personalized,4,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,8,0.02909090909090909
+personalized,4,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+personalized,4,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,83,0.3018181818181818
+personalized,4,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,12,0.02181818181818182
+personalized,4,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,44,0.19999999999999998
+personalized,4,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,90,0.21818181818181814
+personalized,4,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,34,0.20606060606060606
+personalized,4,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,95,0.34545454545454546
+personalized,4,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,92,0.5575757575757576
+personalized,4,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,3,0.00606060606060606
+personalized,4,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,34,0.12363636363636364
+personalized,4,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,26,0.05909090909090908
+personalized,4,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,35,0.05303030303030303
+personalized,4,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,85,0.34343434343434337
+personalized,4,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,96,0.3490909090909091
+personalized,4,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+personalized,4,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,13,0.06753246753246753
+personalized,4,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,130,0.3636363636363636
+personalized,4,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,105,0.4242424242424242
+personalized,4,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,31,0.07045454545454545
+personalized,4,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,60,0.4958677685950413
+personalized,4,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,12,0.03636363636363636
+personalized,4,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,8,0.020779220779220776
+personalized,4,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,31,0.12525252525252523
+personalized,4,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,30,0.0606060606060606
+personalized,4,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,74,0.298989898989899
+personalized,4,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,62,0.37575757575757573
+personalized,4,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,104,0.171900826446281
+personalized,4,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,33,0.2
+personalized,4,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,82,0.4259740259740259
+personalized,4,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,53,0.24090909090909088
+personalized,4,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,67,0.40606060606060607
+personalized,4,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,32,0.12929292929292927
+personalized,4,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,100,0.3305785123966942
+personalized,4,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,64,0.23272727272727273
+personalized,4,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,99,0.5142857142857142
+personalized,4,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,92,0.19679144385026737
+personalized,4,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,73,0.5309090909090909
+personalized,4,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,70,0.42424242424242425
+personalized,4,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,130,0.15757575757575756
+personalized,4,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,37,0.11212121212121212
+personalized,4,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,118,0.26818181818181813
+personalized,4,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,69,0.27878787878787875
+personalized,4,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,91,0.13787878787878788
+personalized,4,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,55,0.2
+personalized,5,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,12,0.02424242424242424
+personalized,5,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,2,0.007272727272727273
+personalized,5,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,0,0.0
+personalized,5,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,117,0.30389610389610383
+personalized,5,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,132,0.3692307692307692
+personalized,5,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,32,0.12929292929292927
+personalized,5,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,18,0.05034965034965034
+personalized,5,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,12,0.04363636363636364
+personalized,5,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,131,0.28021390374331545
+personalized,5,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,60,0.19834710743801653
+personalized,5,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,15,0.045454545454545456
+personalized,5,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,84,0.10909090909090907
+personalized,5,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,16,0.04475524475524475
+personalized,5,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,10,0.02597402597402597
+personalized,5,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,6,0.013636363636363634
+personalized,5,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,7,0.025454545454545455
+personalized,5,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,0,0.0
+personalized,5,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,95,0.34545454545454546
+personalized,5,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,4,0.007272727272727273
+personalized,5,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,30,0.13636363636363635
+personalized,5,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,101,0.24484848484848482
+personalized,5,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,25,0.15151515151515152
+personalized,5,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,100,0.36363636363636365
+personalized,5,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,87,0.5272727272727272
+personalized,5,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,2,0.0040404040404040395
+personalized,5,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,27,0.09818181818181818
+personalized,5,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,25,0.05681818181818181
+personalized,5,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,35,0.05303030303030303
+personalized,5,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,90,0.3636363636363636
+personalized,5,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,104,0.3781818181818182
+personalized,5,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+personalized,5,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,4,0.020779220779220776
+personalized,5,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,117,0.3272727272727272
+personalized,5,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,107,0.4323232323232323
+personalized,5,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,49,0.11136363636363635
+personalized,5,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,48,0.396694214876033
+personalized,5,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,6,0.01818181818181818
+personalized,5,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,13,0.033766233766233764
+personalized,5,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,26,0.10505050505050503
+personalized,5,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,28,0.05656565656565656
+personalized,5,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,72,0.2909090909090909
+personalized,5,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,78,0.4727272727272727
+personalized,5,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,104,0.171900826446281
+personalized,5,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,26,0.15757575757575756
+personalized,5,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,92,0.47792207792207786
+personalized,5,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,50,0.22727272727272724
+personalized,5,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,61,0.3696969696969697
+personalized,5,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,47,0.18989898989898987
+personalized,5,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,109,0.3603305785123967
+personalized,5,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,76,0.27636363636363637
+personalized,5,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,88,0.4571428571428571
+personalized,5,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,108,0.23101604278074864
+personalized,5,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,76,0.5527272727272727
+personalized,5,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,65,0.3939393939393939
+personalized,5,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,143,0.1733333333333333
+personalized,5,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,29,0.08787878787878788
+personalized,5,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,117,0.2659090909090909
+personalized,5,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,75,0.303030303030303
+personalized,5,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,88,0.13333333333333333
+personalized,5,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,66,0.24
+sustainability,0,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,1,0.0020202020202020198
+sustainability,0,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,0,0.0
+sustainability,0,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,5,0.01652892561983471
+sustainability,0,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,167,0.4337662337662337
+sustainability,0,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,147,0.4111888111888111
+sustainability,0,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,15,0.0606060606060606
+sustainability,0,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,0,0.0
+sustainability,0,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,0,0.0
+sustainability,0,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,5,0.0106951871657754
+sustainability,0,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,62,0.2049586776859504
+sustainability,0,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,57,0.17272727272727273
+sustainability,0,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,211,0.274025974025974
+sustainability,0,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,24,0.06713286713286712
+sustainability,0,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,32,0.0831168831168831
+sustainability,0,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,8,0.01818181818181818
+sustainability,0,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,9,0.03272727272727273
+sustainability,0,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,83,0.23216783216783213
+sustainability,0,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,178,0.6472727272727272
+sustainability,0,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,17,0.03090909090909091
+sustainability,0,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,68,0.309090909090909
+sustainability,0,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,47,0.11393939393939392
+sustainability,0,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,40,0.24242424242424243
+sustainability,0,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,76,0.27636363636363637
+sustainability,0,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,88,0.5333333333333333
+sustainability,0,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,7,0.01414141414141414
+sustainability,0,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,14,0.05090909090909091
+sustainability,0,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,58,0.1318181818181818
+sustainability,0,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,116,0.17575757575757575
+sustainability,0,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,90,0.3636363636363636
+sustainability,0,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,50,0.18181818181818182
+sustainability,0,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+sustainability,0,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,30,0.1558441558441558
+sustainability,0,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,113,0.31608391608391606
+sustainability,0,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,90,0.3636363636363636
+sustainability,0,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,59,0.13409090909090907
+sustainability,0,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,44,0.3636363636363636
+sustainability,0,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,50,0.15151515151515152
+sustainability,0,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,15,0.03896103896103895
+sustainability,0,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,54,0.21818181818181814
+sustainability,0,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,39,0.07878787878787878
+sustainability,0,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,97,0.3919191919191919
+sustainability,0,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,81,0.4909090909090909
+sustainability,0,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,71,0.11735537190082644
+sustainability,0,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,40,0.24242424242424243
+sustainability,0,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,48,0.24935064935064932
+sustainability,0,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,65,0.2954545454545454
+sustainability,0,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,77,0.4666666666666667
+sustainability,0,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,36,0.14545454545454545
+sustainability,0,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,93,0.3074380165289256
+sustainability,0,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,37,0.13454545454545455
+sustainability,0,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,61,0.3168831168831168
+sustainability,0,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,13,0.02780748663101604
+sustainability,0,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,79,0.5745454545454546
+sustainability,0,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,55,0.3333333333333333
+sustainability,0,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,0,0.0
+sustainability,0,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,38,0.11515151515151516
+sustainability,0,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,77,0.175
+sustainability,0,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,46,0.18585858585858583
+sustainability,0,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,85,0.12878787878787878
+sustainability,0,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,90,0.32727272727272727
+sustainability,1,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,3,0.00606060606060606
+sustainability,1,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,0,0.0
+sustainability,1,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,6,0.019834710743801654
+sustainability,1,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,152,0.39480519480519477
+sustainability,1,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,150,0.41958041958041953
+sustainability,1,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,18,0.07272727272727272
+sustainability,1,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,5,0.013986013986013984
+sustainability,1,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,1,0.0036363636363636364
+sustainability,1,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,12,0.02566844919786096
+sustainability,1,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,74,0.24462809917355371
+sustainability,1,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,61,0.18484848484848485
+sustainability,1,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,176,0.22857142857142854
+sustainability,1,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,19,0.05314685314685314
+sustainability,1,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,30,0.0779220779220779
+sustainability,1,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,9,0.02045454545454545
+sustainability,1,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,9,0.03272727272727273
+sustainability,1,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,79,0.22097902097902095
+sustainability,1,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,182,0.6618181818181819
+sustainability,1,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,17,0.03090909090909091
+sustainability,1,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,61,0.2772727272727272
+sustainability,1,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,45,0.10909090909090907
+sustainability,1,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,35,0.21212121212121213
+sustainability,1,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,81,0.29454545454545455
+sustainability,1,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,90,0.5454545454545454
+sustainability,1,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,6,0.01212121212121212
+sustainability,1,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,20,0.07272727272727272
+sustainability,1,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,56,0.12727272727272726
+sustainability,1,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,87,0.1318181818181818
+sustainability,1,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,96,0.3878787878787878
+sustainability,1,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,67,0.24363636363636362
+sustainability,1,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+sustainability,1,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,22,0.11428571428571427
+sustainability,1,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,107,0.29930069930069925
+sustainability,1,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,95,0.3838383838383838
+sustainability,1,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,60,0.13636363636363635
+sustainability,1,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,45,0.371900826446281
+sustainability,1,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,39,0.11818181818181818
+sustainability,1,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,21,0.054545454545454536
+sustainability,1,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,52,0.21010101010101007
+sustainability,1,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,42,0.08484848484848484
+sustainability,1,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,95,0.3838383838383838
+sustainability,1,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,82,0.49696969696969695
+sustainability,1,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,78,0.12892561983471074
+sustainability,1,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,38,0.23030303030303031
+sustainability,1,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,49,0.2545454545454545
+sustainability,1,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,58,0.2636363636363636
+sustainability,1,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,76,0.46060606060606063
+sustainability,1,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,31,0.12525252525252523
+sustainability,1,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,94,0.31074380165289256
+sustainability,1,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,42,0.15272727272727274
+sustainability,1,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,42,0.21818181818181814
+sustainability,1,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,22,0.04705882352941176
+sustainability,1,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,76,0.5527272727272727
+sustainability,1,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,55,0.3333333333333333
+sustainability,1,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,27,0.03272727272727272
+sustainability,1,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,28,0.08484848484848485
+sustainability,1,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,75,0.17045454545454544
+sustainability,1,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,65,0.2626262626262626
+sustainability,1,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,62,0.09393939393939393
+sustainability,1,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,74,0.2690909090909091
+sustainability,2,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,1,0.0020202020202020198
+sustainability,2,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,0,0.0
+sustainability,2,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,6,0.019834710743801654
+sustainability,2,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,152,0.39480519480519477
+sustainability,2,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,150,0.41958041958041953
+sustainability,2,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,22,0.08888888888888888
+sustainability,2,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,10,0.02797202797202797
+sustainability,2,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,4,0.014545454545454545
+sustainability,2,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,23,0.04919786096256684
+sustainability,2,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,76,0.2512396694214876
+sustainability,2,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,48,0.14545454545454545
+sustainability,2,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,168,0.21818181818181814
+sustainability,2,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,25,0.06993006993006992
+sustainability,2,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,26,0.06753246753246753
+sustainability,2,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,16,0.03636363636363636
+sustainability,2,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,6,0.02181818181818182
+sustainability,2,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,82,0.22937062937062933
+sustainability,2,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,176,0.64
+sustainability,2,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,9,0.016363636363636365
+sustainability,2,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,58,0.2636363636363636
+sustainability,2,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,53,0.12848484848484848
+sustainability,2,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,36,0.21818181818181817
+sustainability,2,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,82,0.29818181818181816
+sustainability,2,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,94,0.5696969696969697
+sustainability,2,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,7,0.01414141414141414
+sustainability,2,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,18,0.06545454545454546
+sustainability,2,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,57,0.12954545454545452
+sustainability,2,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,76,0.11515151515151516
+sustainability,2,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,102,0.41212121212121205
+sustainability,2,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,71,0.2581818181818182
+sustainability,2,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+sustainability,2,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,17,0.0883116883116883
+sustainability,2,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,113,0.31608391608391606
+sustainability,2,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,98,0.3959595959595959
+sustainability,2,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,58,0.1318181818181818
+sustainability,2,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,48,0.396694214876033
+sustainability,2,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,36,0.10909090909090909
+sustainability,2,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,14,0.036363636363636355
+sustainability,2,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,39,0.15757575757575756
+sustainability,2,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,51,0.10303030303030301
+sustainability,2,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,105,0.4242424242424242
+sustainability,2,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,86,0.5212121212121212
+sustainability,2,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,72,0.11900826446280992
+sustainability,2,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,31,0.18787878787878787
+sustainability,2,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,53,0.2753246753246753
+sustainability,2,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,71,0.3227272727272727
+sustainability,2,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,72,0.43636363636363634
+sustainability,2,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,36,0.14545454545454545
+sustainability,2,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,89,0.29421487603305785
+sustainability,2,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,47,0.1709090909090909
+sustainability,2,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,50,0.2597402597402597
+sustainability,2,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,26,0.05561497326203208
+sustainability,2,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,72,0.5236363636363637
+sustainability,2,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,50,0.30303030303030304
+sustainability,2,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,43,0.05212121212121212
+sustainability,2,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,31,0.09393939393939393
+sustainability,2,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,86,0.19545454545454544
+sustainability,2,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,43,0.17373737373737372
+sustainability,2,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,55,0.08333333333333333
+sustainability,2,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,75,0.2727272727272727
+sustainability,3,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,2,0.0040404040404040395
+sustainability,3,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,0,0.0
+sustainability,3,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,3,0.009917355371900827
+sustainability,3,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,154,0.39999999999999997
+sustainability,3,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,152,0.42517482517482513
+sustainability,3,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,24,0.09696969696969696
+sustainability,3,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,14,0.03916083916083916
+sustainability,3,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,3,0.01090909090909091
+sustainability,3,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,27,0.05775401069518716
+sustainability,3,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,75,0.24793388429752067
+sustainability,3,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,54,0.16363636363636364
+sustainability,3,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,164,0.21298701298701295
+sustainability,3,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,25,0.06993006993006992
+sustainability,3,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,23,0.05974025974025973
+sustainability,3,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,20,0.04545454545454545
+sustainability,3,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,7,0.025454545454545455
+sustainability,3,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,74,0.20699300699300696
+sustainability,3,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,187,0.68
+sustainability,3,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,8,0.014545454545454545
+sustainability,3,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,50,0.22727272727272724
+sustainability,3,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,52,0.12606060606060604
+sustainability,3,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,31,0.18787878787878787
+sustainability,3,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,94,0.3418181818181818
+sustainability,3,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,100,0.6060606060606061
+sustainability,3,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,4,0.008080808080808079
+sustainability,3,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,24,0.08727272727272728
+sustainability,3,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,58,0.1318181818181818
+sustainability,3,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,59,0.0893939393939394
+sustainability,3,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,110,0.4444444444444444
+sustainability,3,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,78,0.28363636363636363
+sustainability,3,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+sustainability,3,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,11,0.057142857142857134
+sustainability,3,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,120,0.3356643356643356
+sustainability,3,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,101,0.40808080808080804
+sustainability,3,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,55,0.12499999999999999
+sustainability,3,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,47,0.38842975206611563
+sustainability,3,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,19,0.05757575757575758
+sustainability,3,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,26,0.06753246753246753
+sustainability,3,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,27,0.10909090909090907
+sustainability,3,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,64,0.12929292929292927
+sustainability,3,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,106,0.4282828282828282
+sustainability,3,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,93,0.5636363636363636
+sustainability,3,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,71,0.11735537190082644
+sustainability,3,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,30,0.18181818181818182
+sustainability,3,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,60,0.3116883116883116
+sustainability,3,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,68,0.309090909090909
+sustainability,3,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,72,0.43636363636363634
+sustainability,3,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,32,0.12929292929292927
+sustainability,3,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,89,0.29421487603305785
+sustainability,3,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,53,0.19272727272727272
+sustainability,3,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,50,0.2597402597402597
+sustainability,3,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,22,0.04705882352941176
+sustainability,3,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,71,0.5163636363636364
+sustainability,3,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,46,0.2787878787878788
+sustainability,3,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,32,0.03878787878787878
+sustainability,3,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,30,0.09090909090909091
+sustainability,3,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,91,0.2068181818181818
+sustainability,3,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,57,0.2303030303030303
+sustainability,3,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,51,0.07727272727272727
+sustainability,3,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,72,0.26181818181818184
+sustainability,4,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,1,0.0020202020202020198
+sustainability,4,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,0,0.0
+sustainability,4,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,7,0.023140495867768594
+sustainability,4,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,151,0.39220779220779217
+sustainability,4,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,151,0.42237762237762233
+sustainability,4,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,23,0.09292929292929292
+sustainability,4,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,11,0.030769230769230764
+sustainability,4,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,2,0.007272727272727273
+sustainability,4,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,31,0.06631016042780748
+sustainability,4,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,62,0.2049586776859504
+sustainability,4,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,56,0.1696969696969697
+sustainability,4,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,171,0.22207792207792204
+sustainability,4,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,23,0.06433566433566433
+sustainability,4,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,24,0.06233766233766233
+sustainability,4,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,16,0.03636363636363636
+sustainability,4,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,6,0.02181818181818182
+sustainability,4,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,83,0.23216783216783213
+sustainability,4,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,181,0.6581818181818182
+sustainability,4,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,11,0.02
+sustainability,4,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,43,0.19545454545454544
+sustainability,4,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,54,0.1309090909090909
+sustainability,4,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,40,0.24242424242424243
+sustainability,4,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,86,0.31272727272727274
+sustainability,4,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,100,0.6060606060606061
+sustainability,4,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,2,0.0040404040404040395
+sustainability,4,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,22,0.08
+sustainability,4,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,63,0.14318181818181816
+sustainability,4,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,50,0.07575757575757576
+sustainability,4,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,108,0.4363636363636363
+sustainability,4,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,87,0.31636363636363635
+sustainability,4,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+sustainability,4,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,12,0.06233766233766233
+sustainability,4,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,119,0.3328671328671328
+sustainability,4,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,107,0.4323232323232323
+sustainability,4,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,53,0.12045454545454544
+sustainability,4,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,42,0.3471074380165289
+sustainability,4,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,26,0.07878787878787878
+sustainability,4,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,17,0.04415584415584415
+sustainability,4,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,42,0.16969696969696968
+sustainability,4,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,59,0.11919191919191918
+sustainability,4,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,101,0.40808080808080804
+sustainability,4,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,89,0.5393939393939394
+sustainability,4,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,78,0.12892561983471074
+sustainability,4,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,34,0.20606060606060606
+sustainability,4,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,58,0.30129870129870123
+sustainability,4,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,63,0.2863636363636363
+sustainability,4,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,69,0.41818181818181815
+sustainability,4,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,31,0.12525252525252523
+sustainability,4,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,97,0.32066115702479336
+sustainability,4,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,41,0.14909090909090908
+sustainability,4,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,57,0.29610389610389604
+sustainability,4,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,25,0.053475935828877
+sustainability,4,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,66,0.48
+sustainability,4,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,48,0.2909090909090909
+sustainability,4,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,42,0.050909090909090904
+sustainability,4,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,34,0.10303030303030303
+sustainability,4,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,81,0.18409090909090906
+sustainability,4,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,51,0.20606060606060603
+sustainability,4,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,56,0.08484848484848485
+sustainability,4,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,70,0.2545454545454545
+sustainability,5,P001,Sagrada Familia,Eixample,41.4036,2.1744,900,495.00000000000006,0,0.0
+sustainability,5,P002,Casa Batllo,Eixample,41.3917,2.1649,500,275.0,0,0.0
+sustainability,5,P003,La Pedrera,Eixample,41.3954,2.1619,550,302.5,2,0.006611570247933884
+sustainability,5,P004,Sant Antoni Market,Eixample,41.3789,2.16,700,385.00000000000006,154,0.39999999999999997
+sustainability,5,P005,Palau Robert Gardens,Eixample,41.3975,2.1598,650,357.50000000000006,160,0.4475524475524475
+sustainability,5,P006,Monumental Bullring,Eixample,41.4005,2.1807,450,247.50000000000003,20,0.0808080808080808
+sustainability,5,P007,Barcelona Cathedral,Ciutat Vella,41.3839,2.1762,650,357.50000000000006,15,0.04195804195804195
+sustainability,5,P008,Picasso Museum,Ciutat Vella,41.3853,2.1809,500,275.0,4,0.014545454545454545
+sustainability,5,P009,La Boqueria Market,Ciutat Vella,41.3817,2.1716,850,467.50000000000006,45,0.09625668449197859
+sustainability,5,P010,Santa Maria del Mar,Ciutat Vella,41.3839,2.1821,550,302.5,69,0.228099173553719
+sustainability,5,P011,Maritime Museum,Ciutat Vella,41.3763,2.1752,600,330.0,52,0.15757575757575756
+sustainability,5,P012,Barceloneta Beach,Ciutat Vella,41.3784,2.1925,1400,770.0000000000001,149,0.1935064935064935
+sustainability,5,P013,Montjuic Castle,Sants-Montjuic,41.3634,2.1662,650,357.50000000000006,27,0.07552447552447551
+sustainability,5,P014,MNAC,Sants-Montjuic,41.3686,2.1536,700,385.00000000000006,22,0.057142857142857134
+sustainability,5,P015,Poble Espanyol,Sants-Montjuic,41.3693,2.1479,800,440.00000000000006,19,0.043181818181818175
+sustainability,5,P016,Joan Miro Foundation,Sants-Montjuic,41.368,2.1597,500,275.0,5,0.01818181818181818
+sustainability,5,P017,Montjuic Botanical Garden,Sants-Montjuic,41.3627,2.1592,650,357.50000000000006,76,0.21258741258741257
+sustainability,5,P018,Hostafrancs Market,Sants-Montjuic,41.3752,2.1437,500,275.0,185,0.6727272727272727
+sustainability,5,P019,Camp Nou Experience,Les Corts,41.3809,2.1228,1000,550.0,9,0.016363636363636365
+sustainability,5,P020,Pedralbes Monastery,Les Corts,41.3951,2.112,400,220.00000000000003,44,0.19999999999999998
+sustainability,5,P021,Pedralbes Gardens,Les Corts,41.3881,2.1176,750,412.50000000000006,53,0.12848484848484848
+sustainability,5,P022,Ceramics Museum,Les Corts,41.3882,2.1174,300,165.0,31,0.18787878787878787
+sustainability,5,P023,Les Corts Market,Les Corts,41.3861,2.1355,500,275.0,96,0.3490909090909091
+sustainability,5,P024,Can Deu Civic Centre,Les Corts,41.3883,2.1343,300,165.0,99,0.6
+sustainability,5,P025,Tibidabo,Sarria-Sant Gervasi,41.4225,2.1186,900,495.00000000000006,3,0.00606060606060606
+sustainability,5,P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,41.422,2.1185,500,275.0,30,0.10909090909090909
+sustainability,5,P027,CosmoCaixa,Sarria-Sant Gervasi,41.4132,2.131,800,440.00000000000006,52,0.11818181818181817
+sustainability,5,P028,Collserola Nature Park,Sarria-Sant Gervasi,41.4194,2.099,1200,660.0,51,0.07727272727272727
+sustainability,5,P029,Sarria Market,Sarria-Sant Gervasi,41.4007,2.1195,450,247.50000000000003,108,0.4363636363636363
+sustainability,5,P030,Tamarita Gardens,Sarria-Sant Gervasi,41.4093,2.132,500,275.0,94,0.3418181818181818
+sustainability,5,P031,Park Guell,Gracia,41.4145,2.1527,1100,605.0,0,0.0
+sustainability,5,P032,Casa Vicens,Gracia,41.4035,2.1506,350,192.50000000000003,3,0.015584415584415583
+sustainability,5,P033,Placa del Sol,Gracia,41.4013,2.157,650,357.50000000000006,126,0.3524475524475524
+sustainability,5,P034,Abaceria Market,Gracia,41.4036,2.1587,450,247.50000000000003,100,0.404040404040404
+sustainability,5,P035,Park de la Creueta del Coll,Gracia,41.4187,2.147,800,440.00000000000006,60,0.13636363636363635
+sustainability,5,P036,Refugi Antiaeri Placa del Diamant,Gracia,41.4046,2.1566,220,121.00000000000001,45,0.371900826446281
+sustainability,5,P037,Hospital de Sant Pau,Horta-Guinardo,41.4117,2.1744,600,330.0,20,0.06060606060606061
+sustainability,5,P038,Labyrinth Park of Horta,Horta-Guinardo,41.4397,2.147,700,385.00000000000006,25,0.06493506493506493
+sustainability,5,P039,Bunkers del Carmel,Horta-Guinardo,41.4193,2.1618,450,247.50000000000003,33,0.13333333333333333
+sustainability,5,P040,Guinardo Park,Horta-Guinardo,41.4183,2.1748,900,495.00000000000006,64,0.12929292929292927
+sustainability,5,P041,Horta Market,Horta-Guinardo,41.4298,2.1605,450,247.50000000000003,102,0.41212121212121205
+sustainability,5,P042,Masia Can Fargas,Horta-Guinardo,41.4256,2.1657,300,165.0,90,0.5454545454545454
+sustainability,5,P043,Parc Central de Nou Barris,Nou Barris,41.438,2.1719,1100,605.0,78,0.12892561983471074
+sustainability,5,P044,Castell de Torre Baro,Nou Barris,41.4588,2.1767,300,165.0,29,0.17575757575757575
+sustainability,5,P045,Nou Barris Technology Park,Nou Barris,41.435,2.1785,350,192.50000000000003,56,0.29090909090909084
+sustainability,5,P046,Guineueta Market,Nou Barris,41.4392,2.1691,400,220.00000000000003,67,0.3045454545454545
+sustainability,5,P047,Casa de l'Aigua,Nou Barris,41.4506,2.1858,300,165.0,64,0.3878787878787879
+sustainability,5,P048,Ateneu Popular 9 Barris,Nou Barris,41.4459,2.175,450,247.50000000000003,40,0.1616161616161616
+sustainability,5,P049,Fabra i Coats,Sant Andreu,41.4354,2.1894,550,302.5,93,0.3074380165289256
+sustainability,5,P050,Sant Andreu Market,Sant Andreu,41.4358,2.1898,500,275.0,42,0.15272727272727274
+sustainability,5,P051,Church of Sant Andreu de Palomar,Sant Andreu,41.4361,2.19,350,192.50000000000003,59,0.30649350649350643
+sustainability,5,P052,La Pegaso Park,Sant Andreu,41.4264,2.1911,850,467.50000000000006,26,0.05561497326203208
+sustainability,5,P053,Bon Pastor Museum Houses,Sant Andreu,41.437,2.204,250,137.5,68,0.49454545454545457
+sustainability,5,P054,Trinitat Vella Community Centre,Sant Andreu,41.4504,2.1925,300,165.0,48,0.2909090909090909
+sustainability,5,P055,Ciutadella Park,Sant Marti,41.3881,2.1875,1500,825.0000000000001,40,0.04848484848484848
+sustainability,5,P056,Design Museum of Barcelona,Sant Marti,41.4024,2.1882,600,330.0,22,0.06666666666666667
+sustainability,5,P057,Encants Market,Sant Marti,41.4044,2.1877,800,440.00000000000006,89,0.20227272727272724
+sustainability,5,P058,Poblenou Cemetery,Sant Marti,41.3977,2.2045,450,247.50000000000003,52,0.21010101010101007
+sustainability,5,P059,Diagonal Mar Park,Sant Marti,41.4116,2.2163,1200,660.0,60,0.09090909090909091
+sustainability,5,P060,Palo Alto Barcelona,Sant Marti,41.4092,2.2098,500,275.0,72,0.26181818181818184

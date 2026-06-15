@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sustainable-tourism-simulator"
+version = "1.0.0"
+description = "Agent-based evaluation of sustainable tourism recommenders in Barcelona"
+requires-python = ">=3.10"
+dependencies = [
+  "mesa>=3.0,<4",
+  "numpy>=2.0",
+  "pandas>=2.0",
+  "scipy>=1.10",
+  "matplotlib>=3.8",
+  "plotly>=5.20",
+  "streamlit>=1.40",
+  "imageio[ffmpeg]>=2.34",
+  "nbformat>=5.9",
+  "nbclient>=0.10",
+  "jupyter>=1.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+
+[project.scripts]
+tourism-sim = "sustainable_tourism.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+

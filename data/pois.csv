@@ -1,0 +1,61 @@
+poi_id,name,district,neighborhood,category,lat,lon,price,popularity,sustainability,local_economic,capacity,outdoor,kid_friendly,accessibility,walking_effort
+P001,Sagrada Familia,Eixample,Sagrada Familia,religious,41.4036,2.1744,26,1.00,0.48,0.45,900,0,1,0.95,0.20
+P002,Casa Batllo,Eixample,Dreta de l'Eixample,architecture,41.3917,2.1649,35,0.94,0.44,0.42,500,0,1,0.92,0.10
+P003,La Pedrera,Eixample,Dreta de l'Eixample,architecture,41.3954,2.1619,28,0.90,0.50,0.45,550,0,1,0.94,0.10
+P004,Sant Antoni Market,Eixample,Sant Antoni,market,41.3789,2.1600,0,0.62,0.76,0.92,700,0,1,0.96,0.08
+P005,Palau Robert Gardens,Eixample,Dreta de l'Eixample,park,41.3975,2.1598,0,0.45,0.86,0.58,650,1,1,0.98,0.08
+P006,Monumental Bullring,Eixample,Fort Pienc,history,41.4005,2.1807,12,0.48,0.61,0.55,450,0,1,0.90,0.12
+P007,Barcelona Cathedral,Ciutat Vella,El Gotic,religious,41.3839,2.1762,14,0.88,0.50,0.48,650,0,1,0.82,0.18
+P008,Picasso Museum,Ciutat Vella,Sant Pere Santa Caterina i la Ribera,museum,41.3853,2.1809,14,0.86,0.55,0.53,500,0,1,0.75,0.22
+P009,La Boqueria Market,Ciutat Vella,El Raval,market,41.3817,2.1716,0,0.95,0.56,0.78,850,0,1,0.88,0.12
+P010,Santa Maria del Mar,Ciutat Vella,Sant Pere Santa Caterina i la Ribera,religious,41.3839,2.1821,5,0.72,0.62,0.57,550,0,1,0.78,0.15
+P011,Maritime Museum,Ciutat Vella,El Raval,museum,41.3763,2.1752,10,0.55,0.67,0.61,600,0,1,0.94,0.10
+P012,Barceloneta Beach,Ciutat Vella,La Barceloneta,beach,41.3784,2.1925,0,0.91,0.70,0.58,1400,1,1,0.95,0.10
+P013,Montjuic Castle,Sants-Montjuic,Montjuic,history,41.3634,2.1662,12,0.68,0.70,0.55,650,1,1,0.55,0.70
+P014,MNAC,Sants-Montjuic,La Font de la Guatlla,museum,41.3686,2.1536,12,0.71,0.64,0.54,700,0,1,0.82,0.40
+P015,Poble Espanyol,Sants-Montjuic,La Font de la Guatlla,culture,41.3693,2.1479,15,0.66,0.60,0.72,800,1,1,0.84,0.30
+P016,Joan Miro Foundation,Sants-Montjuic,Montjuic,museum,41.3680,2.1597,15,0.61,0.65,0.56,500,0,1,0.68,0.50
+P017,Montjuic Botanical Garden,Sants-Montjuic,Montjuic,park,41.3627,2.1592,5,0.42,0.94,0.48,650,1,1,0.62,0.65
+P018,Hostafrancs Market,Sants-Montjuic,Hostafrancs,market,41.3752,2.1437,0,0.35,0.82,0.96,500,0,1,0.95,0.08
+P019,Camp Nou Experience,Les Corts,La Maternitat i Sant Ramon,sports,41.3809,2.1228,28,0.84,0.45,0.52,1000,0,1,0.90,0.15
+P020,Pedralbes Monastery,Les Corts,Pedralbes,religious,41.3951,2.1120,5,0.42,0.78,0.62,400,0,1,0.70,0.30
+P021,Pedralbes Gardens,Les Corts,Pedralbes,park,41.3881,2.1176,0,0.43,0.91,0.49,750,1,1,0.92,0.10
+P022,Ceramics Museum,Les Corts,Pedralbes,museum,41.3882,2.1174,5,0.28,0.74,0.60,300,0,1,0.90,0.08
+P023,Les Corts Market,Les Corts,Les Corts,market,41.3861,2.1355,0,0.37,0.81,0.95,500,0,1,0.96,0.08
+P024,Can Deu Civic Centre,Les Corts,Les Corts,culture,41.3883,2.1343,0,0.25,0.84,0.88,300,1,1,0.90,0.08
+P025,Tibidabo,Sarria-Sant Gervasi,Vallvidrera el Tibidabo i les Planes,entertainment,41.4225,2.1186,35,0.78,0.58,0.50,900,1,1,0.48,0.80
+P026,Sagrat Cor Tibidabo,Sarria-Sant Gervasi,Vallvidrera el Tibidabo i les Planes,religious,41.4220,2.1185,5,0.57,0.72,0.58,500,0,1,0.42,0.82
+P027,CosmoCaixa,Sarria-Sant Gervasi,Sant Gervasi la Bonanova,museum,41.4132,2.1310,6,0.65,0.80,0.55,800,0,1,0.94,0.25
+P028,Collserola Nature Park,Sarria-Sant Gervasi,Vallvidrera el Tibidabo i les Planes,nature,41.4194,2.0990,0,0.40,0.99,0.40,1200,1,1,0.45,0.85
+P029,Sarria Market,Sarria-Sant Gervasi,Sarria,market,41.4007,2.1195,0,0.31,0.86,0.97,450,0,1,0.92,0.10
+P030,Tamarita Gardens,Sarria-Sant Gervasi,Sant Gervasi la Bonanova,park,41.4093,2.1320,0,0.32,0.92,0.55,500,1,1,0.88,0.18
+P031,Park Guell,Gracia,La Salut,park,41.4145,2.1527,10,0.96,0.66,0.46,1100,1,1,0.62,0.65
+P032,Casa Vicens,Gracia,Vila de Gracia,architecture,41.4035,2.1506,18,0.62,0.61,0.53,350,0,1,0.75,0.20
+P033,Placa del Sol,Gracia,Vila de Gracia,culture,41.4013,2.1570,0,0.55,0.72,0.84,650,1,1,0.90,0.08
+P034,Abaceria Market,Gracia,Vila de Gracia,market,41.4036,2.1587,0,0.33,0.84,0.97,450,0,1,0.92,0.08
+P035,Park de la Creueta del Coll,Gracia,El Coll,park,41.4187,2.1470,0,0.36,0.94,0.52,800,1,1,0.65,0.55
+P036,Refugi Antiaeri Placa del Diamant,Gracia,Vila de Gracia,history,41.4046,2.1566,3,0.34,0.73,0.76,220,0,0,0.45,0.25
+P037,Hospital de Sant Pau,Horta-Guinardo,El Guinardo,architecture,41.4117,2.1744,17,0.72,0.67,0.54,600,0,1,0.91,0.16
+P038,Labyrinth Park of Horta,Horta-Guinardo,Horta,park,41.4397,2.1470,3,0.58,0.96,0.50,700,1,1,0.72,0.45
+P039,Bunkers del Carmel,Horta-Guinardo,El Carmel,viewpoint,41.4193,2.1618,0,0.70,0.76,0.58,450,1,0,0.32,0.90
+P040,Guinardo Park,Horta-Guinardo,Can Baro,park,41.4183,2.1748,0,0.34,0.95,0.54,900,1,1,0.55,0.65
+P041,Horta Market,Horta-Guinardo,Horta,market,41.4298,2.1605,0,0.27,0.87,0.98,450,0,1,0.94,0.10
+P042,Masia Can Fargas,Horta-Guinardo,La Font d'en Fargues,culture,41.4256,2.1657,0,0.23,0.86,0.87,300,1,1,0.70,0.35
+P043,Parc Central de Nou Barris,Nou Barris,La Guineueta,park,41.4380,2.1719,0,0.31,0.96,0.60,1100,1,1,0.94,0.15
+P044,Castell de Torre Baro,Nou Barris,Torre Baro,viewpoint,41.4588,2.1767,0,0.30,0.88,0.63,300,1,0,0.28,0.92
+P045,Nou Barris Technology Park,Nou Barris,Porta,culture,41.4350,2.1785,0,0.20,0.82,0.83,350,0,1,0.91,0.10
+P046,Guineueta Market,Nou Barris,La Guineueta,market,41.4392,2.1691,0,0.22,0.89,0.99,400,0,1,0.95,0.08
+P047,Casa de l'Aigua,Nou Barris,Trinitat Nova,history,41.4506,2.1858,0,0.24,0.91,0.78,300,1,1,0.62,0.45
+P048,Ateneu Popular 9 Barris,Nou Barris,Roquetes,culture,41.4459,2.1750,8,0.26,0.84,0.94,450,0,1,0.68,0.40
+P049,Fabra i Coats,Sant Andreu,Sant Andreu de Palomar,culture,41.4354,2.1894,0,0.34,0.88,0.92,550,0,1,0.91,0.10
+P050,Sant Andreu Market,Sant Andreu,Sant Andreu de Palomar,market,41.4358,2.1898,0,0.32,0.87,0.99,500,0,1,0.94,0.08
+P051,Church of Sant Andreu de Palomar,Sant Andreu,Sant Andreu de Palomar,religious,41.4361,2.1900,0,0.28,0.76,0.72,350,0,1,0.80,0.18
+P052,La Pegaso Park,Sant Andreu,La Sagrera,park,41.4264,2.1911,0,0.29,0.95,0.57,850,1,1,0.96,0.08
+P053,Bon Pastor Museum Houses,Sant Andreu,Bon Pastor,history,41.4370,2.2040,0,0.21,0.90,0.89,250,1,1,0.78,0.20
+P054,Trinitat Vella Community Centre,Sant Andreu,Trinitat Vella,culture,41.4504,2.1925,0,0.18,0.87,0.96,300,0,1,0.86,0.18
+P055,Ciutadella Park,Sant Marti,El Parc i la Llacuna del Poblenou,park,41.3881,2.1875,0,0.87,0.88,0.51,1500,1,1,0.98,0.06
+P056,Design Museum of Barcelona,Sant Marti,El Clot,museum,41.4024,2.1882,6,0.52,0.75,0.59,600,0,1,0.98,0.06
+P057,Encants Market,Sant Marti,El Clot,market,41.4044,2.1877,0,0.58,0.83,0.97,800,0,1,0.93,0.10
+P058,Poblenou Cemetery,Sant Marti,Poblenou,history,41.3977,2.2045,0,0.35,0.79,0.62,450,1,0,0.91,0.08
+P059,Diagonal Mar Park,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,park,41.4116,2.2163,0,0.45,0.96,0.55,1200,1,1,0.98,0.06
+P060,Palo Alto Barcelona,Sant Marti,Poblenou,culture,41.4092,2.2098,5,0.38,0.84,0.93,500,1,1,0.86,0.15
