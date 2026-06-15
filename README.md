@@ -57,7 +57,6 @@ The CSV contains modeled nominal capacities. The simulation treats 55% of nomina
 - `outputs/crowd_flow.mp4`: 1280x720 H.264 comparison over all six time slots.
 - `notebooks/evaluation.ipynb`: executed academic report with tables and embedded figures.
 
-See [docs/methodology.md](docs/methodology.md) for assumptions, metric definitions, and limitations.
 
 ## Project Layout
 
@@ -69,7 +68,3 @@ tests/                         Unit and integration tests
 notebooks/evaluation.ipynb     Executed report
 outputs/                       Reproducible data and visual evidence
 ```
-
-## Data Provenance
-
-POI names, districts, neighborhoods, categories, and approximate coordinates describe real Barcelona locations. Price is a representative study value rather than a live tariff. Popularity, sustainability, local-economic benefit, capacity, outdoor suitability, kid friendliness, accessibility, and walking effort are synthetic modeled attributes created for this controlled evaluation. No external API or internet connection is required at runtime.
